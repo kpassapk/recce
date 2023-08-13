@@ -1,0 +1,10 @@
+// Automatically generated. Do not edit.
+// To reproduce this request, install REST client extension for VS Code or Goland and run the "Send Request" command.
+// File generated at 13 August 2023 18:42:16
+// ------------------------------------------------------------
+
+// SCENARIO  1 (tasks/create)
+// Name: valid task
+POST http://localhost:8080/tasks HTTP/1.1
+
+{"title": "Test Task"}
