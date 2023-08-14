@@ -9,6 +9,8 @@ interactions in a format compatible with [REST Client][restclient]
 
 [restclient]: https://marketplace.visualstudio.com/items?itemName=humao.rest-client
 
+See the [blog post](https://www.kpassa.me/posts/recce/) for an introduction.
+
 ## Install
 
 
